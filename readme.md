@@ -1,9 +1,8 @@
 # TDVJ Patches
 
-A collection of TD patches for the TDVJ Studio.
+A VJ tool which can load external TOX files for TouchDesigner.
 
 By [Marius Jopen](https://mariusjopen.com/)
-
 
 ### 👍 TDVJ Patches:
 
