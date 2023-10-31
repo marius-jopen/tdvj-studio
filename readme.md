@@ -1,4 +1,4 @@
-# TDVJ Patches
+# TDVJ Studio
 
 A VJ tool which can load external TOX files for TouchDesigner.
 
